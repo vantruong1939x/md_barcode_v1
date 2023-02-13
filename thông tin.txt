@@ -1,0 +1,4 @@
+thông tin đăng nhập:
+admin- email: admin@gmail.com
+pass: 123456789xyz
+loại mã hó: md5
